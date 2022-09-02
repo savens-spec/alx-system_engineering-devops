@@ -1,2 +1,2 @@
  #!/bin/bash
-cp -nu *.htmml ..
+cp -u *.htmml ..
